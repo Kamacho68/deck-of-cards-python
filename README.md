@@ -12,7 +12,7 @@ A Python implementation of a standard 52-card poker deck with shuffle and dealin
 ## Installation
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Kamacho68/deck-of-cards-python.git
 cd deck-of-cards
 pip install -r requirements.txt
 ```
